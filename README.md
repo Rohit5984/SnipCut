@@ -26,7 +26,7 @@ SnipCut provides essential video and audio editing features without the complexi
 
 ### Download
 
-Go to the [Releases](https://github.com/YOUR_USERNAME/SnipCut/releases) page and download the latest version for your operating system.
+Go to the [Releases](https://github.com/Rohit5984/SnipCut/releases/tag/1.0.0) page and download the latest version for your operating system.
 
 
 ## 📖 Usage
